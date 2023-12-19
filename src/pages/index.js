@@ -147,34 +147,6 @@ const IndexPage = () => {
                   })}
                 </div>
               </div>
-              <div>
-                <h2 style={styles.header}>Education</h2>
-                <div>
-                  {educations.map((education, index) => {
-                    return (
-                      <div key={`education-${index}`}>
-                        <h3>
-                          <span>{education.major}</span>
-                          <span>, </span>
-                          <span>{education.school}</span>
-                        </h3>
-                        <p>
-                          <i>{education.time}</i>
-                        </p>
-                        <ul>
-                          {education.achievements.map((achievement, index) => {
-                            return (
-                              <li key={`achievement-${index}`}>
-                                {achievement}
-                              </li>
-                            );
-                          })}
-                        </ul>
-                      </div>
-                    );
-                  })}
-                </div>
-              </div>
             </div>
           </Layout>
         );
