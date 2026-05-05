@@ -33,36 +33,22 @@
   ],
   "history": [
     {
-      "title": "Backend engineer",
-      "company": "Tamara",
-      "time": "July 2023 to present",
-      "skills": "Java, RabbitMQ, Testcontainers, Kubernetes, MySQL, OCI, ArgoCD, Kibana, New relic",
-      "projects": [
-        {
-          "name": "Backend engineer",
-          "description": "I am responsible for building and maintaining services following microservices architecture, which helps to decouple a monolith codebase",
-          "responsibilities": [
-            "I worked closely with the team and stakeholders to define tech and organizational debt, gathered requirements from partners.",
-            "I was responsible for building a scalability, high availability and high-performance back -end services using Microservices architecture.",
-            "I handled designing, estimation, development, code review of all modules of the backend system.",
-            "I was responsible for supporting to hire top talent in a high-performance engineering team, crafted a structured and fair interview process and created a diverse candidate pipeline in collaboration with HR and technical recruiters."
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Backend engineer",
+      "title": "Backend Engineer",
       "company": "Strapi",
-      "time": "November 2022 to June 2023",
-      "skills": "Nodejs, Typescript, Kafka, Docker, Kubernetes, PostgreSQL",
+      "time": "November 2022 to present",
+      "skills": "Node.js, TypeScript, Kafka, Docker, Kubernetes, PostgreSQL",
       "projects": [
         {
-          "name": "Backend engineer",
-          "description": "Developing cloud platform, which helps to deploy, monitor and manage strapi app in a cloud environment.",
+          "name": "Backend Engineer",
+          "description": "Core backend engineer working on a cloud platform to deploy, monitor, and manage Strapi applications at scale.",
           "responsibilities": [
-            "I was the core developer of backend team.",
-            "I involved in designing, estimation, and development of various modules of the backend system.",
-            "I mentored and paired with team members to help them learn new technologies and ship features, I was also the one who usually did research new things and shared it with the team."
+            "Designed and implemented backend services with a strong focus on scalability, high availability, and performance.",
+            "Built and optimized event-driven systems using Kafka to handle asynchronous workflows and improve system reliability.",
+            "Led the design and development of key backend modules, including service orchestration, monitoring, and deployment workflows.",
+            "Collaborated closely with cross-functional teams (frontend, DevOps, product) to define requirements and deliver production-ready features.",
+            "Improved system observability and debugging capabilities, enabling faster issue detection and resolution.",
+            "Mentored team members, conducted code reviews, and shared best practices to improve overall code quality and team productivity.",
+            "Proactively researched and introduced new technologies and architectural improvements to the team."
           ]
         }
       ]
