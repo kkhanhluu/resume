@@ -13,7 +13,10 @@ jobs:
         node-version: 24
         cache: 'npm'
     - run: npm ci --legacy-peer-deps
-    - run: npm run build
+    - name: Build with legacy OpenSSL
+      run: npm run build
+      env:
+        NODE_OPTIONS: --openssl-legacy-provider
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v4
       with:
