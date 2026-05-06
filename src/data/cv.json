@@ -33,9 +33,27 @@
   ],
   "history": [
     {
+      "title": "Backend engineer",
+      "company": "Tamara",
+      "time": "July 2023 to present",
+      "skills": "Java, PHP,  RabbitMQ, Testcontainers, Kubernetes, MySQL, OCI, ArgoCD, Kibana, New relic",
+      "projects": [
+        {
+          "name": "Backend engineer",
+          "description": "I am responsible for building and maintaining services following microservices architecture, which helps to decouple a monolith codebase",
+          "responsibilities": [
+            "I worked closely with the team and stakeholders to define tech and organizational debt, gathered requirements from partners.",
+            "I was responsible for building a scalability, high availability and high-performance back -end services using Microservices architecture.",
+            "I handled designing, estimation, development, code review of all modules of the backend system.",
+            "I was responsible for supporting to hire top talent in a high-performance engineering team, crafted a structured and fair interview process and created a diverse candidate pipeline in collaboration with HR and technical recruiters."
+          ]
+        }
+      ]
+    },
+    {
       "title": "Backend Engineer",
       "company": "Strapi",
-      "time": "November 2022 to present",
+      "time": "November 2022 to June 2023",
       "skills": "Node.js, TypeScript, Kafka, Docker, Kubernetes, PostgreSQL",
       "projects": [
         {
