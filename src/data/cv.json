@@ -12,7 +12,7 @@
     "blog": "https://kkhanhluu.github.io/"
   },
   "summary": [
-    "I have more than 5 years of experience in the software industry with extensive experience in building and maintaining large-scale digital products.",
+    "I have more than 7 years of experience in the software industry with extensive experience in building and maintaining large-scale digital products.",
     "I have extensive experience in collaborating with cross-functional teams, including front-end developers, product managers, and QA engineers.",
     "I have a solid cloud experience, having worked with Azure and microsoft certificate: Azure Developer Associate. I'm proficient in containerization with Docker and orchestration using Kubernetes for streamlined development and deployment workflows.",
     "I have extensive knowledge of JavaScript, NodeJS, Java, and related technologies and massive experience in designing scalability, high availability and high-performance back­end systems using Load Balancing, RPC, Caching, Message Queue System."
@@ -33,10 +33,10 @@
   ],
   "history": [
     {
-      "title": "Backend engineer",
+      "title": "Senior Backend engineer",
       "company": "Tamara",
       "time": "July 2023 to present",
-      "skills": "Java, PHP,  RabbitMQ, Testcontainers, Kubernetes, MySQL, OCI, ArgoCD, Kibana, New relic",
+      "skills": "Java, PHP, Kafka,  RabbitMQ, Testcontainers, Kubernetes, MySQL, OCI, ArgoCD, Kibana, New relic",
       "projects": [
         {
           "name": "Backend engineer",
