@@ -151,7 +151,13 @@ const IndexPage = () => {
                 <h2 style={styles.header}>Education</h2>
                 <ul>
                   {educations.map((item, index) => {
-                    return <li key={`education-${index}`}>{item.school}</li>;
+                    return (
+                      <li key={`education-${index}`}>
+                        <span>{item.time}</span>
+                        <span> – </span>
+                        <span>{item.school}</span>
+                      </li>
+                    );
                   })}
                 </ul>
               </div>
