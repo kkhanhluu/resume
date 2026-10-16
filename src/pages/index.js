@@ -154,8 +154,10 @@ const IndexPage = () => {
                     return (
                       <li key={`education-${index}`}>
                         <span>{item.time}</span>
-                        <span> – </span>
+                        <span>: </span>
                         <span>{item.school}</span>
+                        <span>, </span>
+                        <span>{item.major}</span>
                       </li>
                     );
                   })}
